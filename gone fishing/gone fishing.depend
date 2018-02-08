@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516282351 source:c:\users\915\desktop\c++\gone fishing\main.cpp
+	<iostream>
+	<queue>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516792462 source:c:\users\915\desktop\c++\middle nimber\main.cpp
+	<cstdio>
+	<cmath>
+	<algorithm>
+
